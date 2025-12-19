@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I’m Krishna Teja G 👋
 
-<!--
-**krishnateja-g/krishnateja-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an M.Tech Computer Science & Engineering student specializing in
+**Machine Intelligence** at **PES University**.
 
-Here are some ideas to get you started:
+I am focused on building strong fundamentals in:
+- Data Structures & Algorithms
+- Machine Learning & Deep Learning
+- Distributed Systems & Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Current Focus
+- Interview-oriented DSA preparation
+- End-to-end ML projects
+- Scalable systems using cloud technologies
+
+### 🛠 Technical Skills
+- **Programming:** C++, Python
+- **Machine Learning:** Scikit-learn, TensorFlow
+- **Systems:** Linux, Git
+- **Cloud & DevOps:** Docker, AWS (basic), Kubernetes (learning)
+
+### 📌 Featured Repositories
+- **mtech-core-dsa** – Advanced data structures & algorithms
+- **machine-learning-foundations** – ML concepts and implementations (upcoming)
+- **scalable-systems-cloud** – Cloud & distributed systems projects (upcoming)
+
+### 🎯 Career Objective
+Seeking entry-level roles in **Software Engineering / AI & ML**
+where I can apply strong fundamentals and grow as an engineer.
+
+📫 Reach me at:  
+**krishnateja.godavarthi@gmail.com**
